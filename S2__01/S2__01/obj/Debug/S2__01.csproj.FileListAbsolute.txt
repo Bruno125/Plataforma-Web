@@ -1,5 +1,0 @@
-D:\web\S2__01\S2__01\bin\Debug\S2__01.exe.config
-D:\web\S2__01\S2__01\bin\Debug\S2__01.exe
-D:\web\S2__01\S2__01\bin\Debug\S2__01.pdb
-D:\web\S2__01\S2__01\obj\Debug\S2__01.exe
-D:\web\S2__01\S2__01\obj\Debug\S2__01.pdb
