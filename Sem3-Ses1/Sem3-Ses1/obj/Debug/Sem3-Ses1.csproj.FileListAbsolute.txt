@@ -1,0 +1,6 @@
+E:\Web\Sem3-Ses1\Sem3-Ses1\bin\Debug\Sem3-Ses1.exe.config
+E:\Web\Sem3-Ses1\Sem3-Ses1\bin\Debug\Sem3-Ses1.exe
+E:\Web\Sem3-Ses1\Sem3-Ses1\bin\Debug\Sem3-Ses1.pdb
+E:\Web\Sem3-Ses1\Sem3-Ses1\obj\Debug\Sem3-Ses1.csprojResolveAssemblyReference.cache
+E:\Web\Sem3-Ses1\Sem3-Ses1\obj\Debug\Sem3-Ses1.exe
+E:\Web\Sem3-Ses1\Sem3-Ses1\obj\Debug\Sem3-Ses1.pdb
