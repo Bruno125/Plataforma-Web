@@ -1,0 +1,5 @@
+E:\Web\NorthWindApp\NorthWindDAO\bin\Debug\NorthWindDAO.dll
+E:\Web\NorthWindApp\NorthWindDAO\bin\Debug\NorthWindDAO.pdb
+E:\Web\NorthWindApp\NorthWindDAO\obj\Debug\NorthWindDAO.csprojResolveAssemblyReference.cache
+E:\Web\NorthWindApp\NorthWindDAO\obj\Debug\NorthWindDAO.dll
+E:\Web\NorthWindApp\NorthWindDAO\obj\Debug\NorthWindDAO.pdb

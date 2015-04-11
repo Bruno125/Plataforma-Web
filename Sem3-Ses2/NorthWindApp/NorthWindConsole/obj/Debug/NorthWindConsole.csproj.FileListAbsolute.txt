@@ -1,0 +1,8 @@
+E:\Web\NorthWindApp\NorthWindConsole\bin\Debug\NorthWindConsole.exe.config
+E:\Web\NorthWindApp\NorthWindConsole\bin\Debug\NorthWindConsole.exe
+E:\Web\NorthWindApp\NorthWindConsole\bin\Debug\NorthWindConsole.pdb
+E:\Web\NorthWindApp\NorthWindConsole\bin\Debug\NorthWindDAO.dll
+E:\Web\NorthWindApp\NorthWindConsole\bin\Debug\NorthWindDAO.pdb
+E:\Web\NorthWindApp\NorthWindConsole\obj\Debug\NorthWindConsole.csprojResolveAssemblyReference.cache
+E:\Web\NorthWindApp\NorthWindConsole\obj\Debug\NorthWindConsole.exe
+E:\Web\NorthWindApp\NorthWindConsole\obj\Debug\NorthWindConsole.pdb
