@@ -1,0 +1,9 @@
+E:\Plataforma Web\Sem4-Ses2\Northwind\NorthwindDao\bin\Debug\NorthwindDao.dll
+E:\Plataforma Web\Sem4-Ses2\Northwind\NorthwindDao\bin\Debug\NorthwindDao.pdb
+E:\Plataforma Web\Sem4-Ses2\Northwind\NorthwindDao\bin\Debug\NorthwindEntity.dll
+E:\Plataforma Web\Sem4-Ses2\Northwind\NorthwindDao\bin\Debug\NorthwindUtil.dll
+E:\Plataforma Web\Sem4-Ses2\Northwind\NorthwindDao\bin\Debug\NorthwindEntity.pdb
+E:\Plataforma Web\Sem4-Ses2\Northwind\NorthwindDao\bin\Debug\NorthwindUtil.pdb
+E:\Plataforma Web\Sem4-Ses2\Northwind\NorthwindDao\obj\Debug\NorthwindDao.csprojResolveAssemblyReference.cache
+E:\Plataforma Web\Sem4-Ses2\Northwind\NorthwindDao\obj\Debug\NorthwindDao.dll
+E:\Plataforma Web\Sem4-Ses2\Northwind\NorthwindDao\obj\Debug\NorthwindDao.pdb
