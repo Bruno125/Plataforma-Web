@@ -1,0 +1,36 @@
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindConsole.exe.config
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindConsole.exe
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindConsole.pdb
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\EntityFramework.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindBusiness.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindEntity.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindUtil.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindDao.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindBusiness.pdb
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindEntity.pdb
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindUtil.pdb
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\EntityFramework.xml
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\bin\Debug\NorthwindDao.pdb
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\obj\Debug\NorthwindConsole.csprojResolveAssemblyReference.cache
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\obj\Debug\NorthwindConsole.exe
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindConsole\obj\Debug\NorthwindConsole.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindConsole.exe.config
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\obj\Debug\NorthwindConsole.exe
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\obj\Debug\NorthwindConsole.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindConsole.exe
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindConsole.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\EntityFramework.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\EntityFramework.SqlServer.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindBusiness.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindEntity.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindUtil.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindDao.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindBusiness.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindEntity.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindUtil.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\EntityFramework.xml
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\EntityFramework.SqlServer.xml
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\bin\Debug\NorthwindDao.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindConsole\obj\Debug\NorthwindConsole.csprojResolveAssemblyReference.cache

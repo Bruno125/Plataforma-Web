@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<users>
+  <user id="3">
+    <name>fdg</name>
+    <lastname>fdg</lastname>
+    <birthday>04/05/2015 06:04:20 p.m.</birthday>
+    <userId>fdgfd</userId>
+    <password>fdgdfg</password>
+  </user>
+  <user id="4">
+    <name>aaa asfdsafds</name>
+    <lastname>aaa asfdsafds</lastname>
+    <birthday>22/07/1971 06:07:09 p.m.</birthday>
+    <userId>dsafa</userId>
+    <password>fadsf</password>
+  </user>
+</users>

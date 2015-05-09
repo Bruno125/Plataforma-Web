@@ -1,0 +1,28 @@
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\NorthwindDao.dll.config
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\NorthwindDao.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\NorthwindDao.pdb
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\EntityFramework.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\NorthwindEntity.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\NorthwindUtil.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\NorthwindEntity.pdb
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\NorthwindUtil.pdb
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\EntityFramework.xml
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\obj\Debug\NorthwindDao.csprojResolveAssemblyReference.cache
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\obj\Debug\NorthwindDao.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindDao\obj\Debug\NorthwindDao.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\NorthwindDao.dll.config
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\NorthwindDao.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\NorthwindDao.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\EntityFramework.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\EntityFramework.SqlServer.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\NorthwindEntity.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\NorthwindUtil.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\NorthwindEntity.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\NorthwindUtil.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\EntityFramework.xml
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\bin\Debug\EntityFramework.SqlServer.xml
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\obj\Debug\NorthwindDao.csprojResolveAssemblyReference.cache
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\obj\Debug\NorthwindDao.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindDao\obj\Debug\NorthwindDao.pdb

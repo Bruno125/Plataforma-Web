@@ -1,0 +1,9 @@
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindEntity\bin\Debug\NorthwindEntity.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindEntity\bin\Debug\NorthwindEntity.pdb
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindEntity\obj\Debug\NorthwindEntity.csprojResolveAssemblyReference.cache
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindEntity\obj\Debug\NorthwindEntity.dll
+E:\PROGRAWEB\SEMANA05\Northwind\NorthwindEntity\obj\Debug\NorthwindEntity.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindEntity\bin\Debug\NorthwindEntity.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindEntity\bin\Debug\NorthwindEntity.pdb
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindEntity\obj\Debug\NorthwindEntity.dll
+E:\Plataforma Web\Sem6-Ses1\Northwind\NorthwindEntity\obj\Debug\NorthwindEntity.pdb
