@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterInternal.master.cs" Inherits="NorthwindWeb.Pages.MasterInternal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Northwind Web</title>
+    <!-- Hoja de estilos -->
+    <link href="../Resources/css/style.css" rel="stylesheet" type="text/css" />
+    <!-- JQuery utilizar-->
+    <script src="../Resources/js/function.js" ></script>
+    <script src="../Resources/js/jquery-1.11.1.js" ></script>
+    <script src="../Resources/js/jquery.js" ></script>
+    <script src="../Resources/js/jquery.validate.js" ></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body onload="window.history.forward();" 
+    onpageshow="if(event.persisted) window.history.forward();"
+    onunload="">
+    <form id="form1" runat="server">
+    <div>
+        <!--INICIO: CABECERA -->
+        <div class="titulo">
+            <center>
+                <table border="0">
+                    <tr>
+                        <td><img src="../../Resources/img/logo.png" width="64" height="64" /></td>
+                        <td><h2>NorthwindWeb</h2></td>
+                    </tr>
+                </table>
+            </center>
+        </div>
+        <br />
+        <div>
+            <a href="MntCategoria.aspx">Mantenimiento Categoria</a> | 
+            <a href="RegCategoria.aspx">Registrar Categoria</a> |
+            <a href="../../Index.aspx">Cerrar Sesion</a>
+        </div>
+        <br />
+        <div>
+            Usuario autenticado: <%= 
+                                 ((NorthwindEntity.Entity.UsersDto)
+                                    Session[NorthwindWeb.Util.ConstantesWeb.SESION_USUARIOINICIO]
+                                 ).Name %>
+        </div>
+        <br />
+        <!--FIN: CABECERA -->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <!--INICIO: PIE-->
+        <div class="titulo"><h3>Plataforma de Desarrollo Web</h3></div>
+        <!--FIN: PIE-->
+    </div>
+    </form>
+</body>

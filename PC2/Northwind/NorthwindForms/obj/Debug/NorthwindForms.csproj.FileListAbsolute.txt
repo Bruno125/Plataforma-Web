@@ -24,3 +24,6 @@ E:\web\Northwind\NorthwindForms\obj\Debug\NorthwindForms.exe
 E:\web\Northwind\NorthwindForms\obj\Debug\NorthwindForms.pdb
 E:\web\Northwind\NorthwindForms\obj\Debug\NorthwindForms.Mantenimiento.FrmManProducto.resources
 E:\web\Northwind\NorthwindForms\obj\Debug\NorthwindForms.Mantenimiento.FrmManUsuario.resources
+C:\Bruno_UPC\Ciclo 2015-01\Plataforma Web\Clases\PC2\Northwind\NorthwindForms\bin\Debug\NorthwindForms.exe.config
+C:\Bruno_UPC\Ciclo 2015-01\Plataforma Web\Clases\PC2\Northwind\NorthwindForms\obj\Debug\NorthwindForms.exe
+C:\Bruno_UPC\Ciclo 2015-01\Plataforma Web\Clases\PC2\Northwind\NorthwindForms\obj\Debug\NorthwindForms.pdb

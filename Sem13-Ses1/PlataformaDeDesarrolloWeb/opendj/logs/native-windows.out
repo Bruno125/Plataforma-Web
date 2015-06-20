@@ -1,0 +1,375 @@
+start-ds.bat: invoked 
+start-ds.bat: CLASSPATH=D:\PLATAF~1\opendj\classes;D:\PLATAF~1\opendj\lib\bootstrap.jar; 
+start-ds.bat: PATH=C:\Windows;C:\Windows;C:\Program Files (x86)\Rockwell Software\RSCommon;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\TortoiseSVN\bin;;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\IBM\SPSS\Statistics\22\JRE\bin;C:\Program Files\LINGO14\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files (x86)\MySQL\MySQL Server 5.1\bin;C:\MinGW\bin\;C:\Program Files (x86)\Rational\common;C:\Program Files (x86)\IBM\RationalSDLC\common;C:\Program Files\nodejs\;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby1.9.3\bin;C:\Users\Alumnos\AppData\Roaming\npm 
+2015/06/19 20:24:00: (pid=8728)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:24:00: (pid=8728)  main called.
+2015/06/19 20:24:00: (pid=8728)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:24:00: (pid=8728)    argv[1] = 'state'
+2015/06/19 20:24:00: (pid=8728)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:24:00: (pid=8728)    argv[3] = '--debug'
+2015/06/19 20:24:00: (pid=8728)  Getting service state.
+2015/06/19 20:24:00: (pid=8728)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:24:00: (pid=8728)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:24:00: (pid=8728)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:24:00: (pid=8728)  Successfully opened the Service Control Manager.
+2015/06/19 20:24:01: (pid=8728)  The service name was found to be ''.
+2015/06/19 20:24:01: (pid=8728)  Service '' is disabled.
+2015/06/19 20:24:01: (pid=8728)  main returning 1.
+start-ds.bat: Run detach 
+2015/06/19 20:24:01: (pid=8144)  --------------- FIRST LOG MESSAGE FROM 'D:\PLATAF~1\opendj\lib\winlauncher.exe' ---------------
+2015/06/19 20:24:01: (pid=8144)  main called.
+2015/06/19 20:24:01: (pid=8144)    argv[0] = 'D:\PLATAF~1\opendj\lib\winlauncher.exe'
+2015/06/19 20:24:01: (pid=8144)    argv[1] = 'start'
+2015/06/19 20:24:01: (pid=8144)    argv[2] = 'D:\PLATAF~1\opendj'
+2015/06/19 20:24:01: (pid=8144)    argv[3] = 'C:\Program Files (x86)\Java\jre7\bin\java.exe'
+2015/06/19 20:24:01: (pid=8144)    argv[4] = '-Xms128m'
+2015/06/19 20:24:01: (pid=8144)    argv[5] = '-Xmx256m'
+2015/06/19 20:24:01: (pid=8144)    argv[6] = '-Dorg.opends.server.scriptName=start-ds'
+2015/06/19 20:24:01: (pid=8144)    argv[7] = 'org.opends.server.core.DirectoryServer'
+2015/06/19 20:24:01: (pid=8144)    argv[8] = '--configClass'
+2015/06/19 20:24:01: (pid=8144)    argv[9] = 'org.opends.server.extensions.ConfigFileHandler'
+2015/06/19 20:24:01: (pid=8144)    argv[10] = '--configFile'
+2015/06/19 20:24:01: (pid=8144)    argv[11] = 'D:\PLATAF~1\opendj\config\config.ldif'
+2015/06/19 20:24:01: (pid=8144)    argv[12] = '--timeout'
+2015/06/19 20:24:01: (pid=8144)    argv[13] = '0'
+2015/06/19 20:24:01: (pid=8144)  Constructing full command line from arguments:
+2015/06/19 20:24:01: (pid=8144)   argv[0]: C:\Program Files (x86)\Java\jre7\bin\java.exe
+2015/06/19 20:24:01: (pid=8144)   argv[1]: -Xms128m
+2015/06/19 20:24:01: (pid=8144)   argv[2]: -Xmx256m
+2015/06/19 20:24:01: (pid=8144)   argv[3]: -Dorg.opends.server.scriptName=start-ds
+2015/06/19 20:24:01: (pid=8144)   argv[4]: org.opends.server.core.DirectoryServer
+2015/06/19 20:24:01: (pid=8144)   argv[5]: --configClass
+2015/06/19 20:24:01: (pid=8144)   argv[6]: org.opends.server.extensions.ConfigFileHandler
+2015/06/19 20:24:01: (pid=8144)   argv[7]: --configFile
+2015/06/19 20:24:01: (pid=8144)   argv[8]: D:\PLATAF~1\opendj\config\config.ldif
+2015/06/19 20:24:01: (pid=8144)   argv[9]: --timeout
+2015/06/19 20:24:01: (pid=8144)   argv[10]: 0
+2015/06/19 20:24:01: (pid=8144)  The full commandline is '"C:\Program Files (x86)\Java\jre7\bin\java.exe" -Xms128m -Xmx256m -Dorg.opends.server.scriptName=start-ds org.opends.server.core.DirectoryServer --configClass org.opends.server.extensions.ConfigFileHandler --configFile D:\PLATAF~1\opendj\config\config.ldif --timeout 0'.
+2015/06/19 20:24:01: (pid=8144)  createChildProcess: Attempting to create child process '"C:\Program Files (x86)\Java\jre7\bin\java.exe" -Xms128m -Xmx256m -Dorg.opends.server.scriptName=start-ds org.opends.server.core.DirectoryServer --configClass org.opends.server.extensions.ConfigFileHandler --configFile D:\PLATAF~1\opendj\config\config.ldif --timeout 0' background=1.
+2015/06/19 20:24:01: (pid=8144)  createChildProcess: Successfully created child process '"C:\Program Files (x86)\Java\jre7\bin\java.exe" -Xms128m -Xmx256m -Dorg.opends.server.scriptName=start-ds org.opends.server.core.DirectoryServer --configClass org.opends.server.extensions.ConfigFileHandler --configFile D:\PLATAF~1\opendj\config\config.ldif --timeout 0'.
+2015/06/19 20:24:01: (pid=8144)  The PID of the spawned process is 8760.
+2015/06/19 20:24:01: (pid=8144)  createPidFile(instanceDir='D:\PLATAF~1\opendj',pid=8760)
+2015/06/19 20:24:01: (pid=8144)  Attempting to get the PID file for instanceDir='D:\PLATAF~1\opendj'
+2015/06/19 20:24:01: (pid=8144)  PID file name is 'D:\PLATAF~1\opendj\logs\server.pid'.
+2015/06/19 20:24:01: (pid=8144)  Successfully put pid=8760 in the pid file 'D:\PLATAF~1\opendj\logs\server.pid'.
+2015/06/19 20:24:01: (pid=8144)  main finished. Returning 8760
+start-ds.bat: Waiting for "D:\PLATAF~1\opendj\logs\server.starting" to be deleted 
+start-ds.bat: check started 
+2015/06/19 20:24:06: (pid=2884)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:24:06: (pid=2884)  main called.
+2015/06/19 20:24:06: (pid=2884)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:24:06: (pid=2884)    argv[1] = 'state'
+2015/06/19 20:24:06: (pid=2884)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:24:06: (pid=2884)    argv[3] = '--debug'
+2015/06/19 20:24:06: (pid=2884)  Getting service state.
+2015/06/19 20:24:06: (pid=2884)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:24:06: (pid=2884)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:24:06: (pid=2884)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:24:06: (pid=2884)  Successfully opened the Service Control Manager.
+2015/06/19 20:24:06: (pid=2884)  The service name was found to be ''.
+2015/06/19 20:24:06: (pid=2884)  Service '' is disabled.
+2015/06/19 20:24:06: (pid=2884)  main returning 1.
+start-ds.bat: finished 
+2015/06/19 20:24:31: (pid=7084)  --------------- FIRST LOG MESSAGE FROM 'D:\PLATAF~1\opendj\lib\winlauncher.exe' ---------------
+2015/06/19 20:24:31: (pid=7084)  main called.
+2015/06/19 20:24:31: (pid=7084)    argv[0] = 'D:\PLATAF~1\opendj\lib\winlauncher.exe'
+2015/06/19 20:24:31: (pid=7084)    argv[1] = 'launch'
+2015/06/19 20:24:31: (pid=7084)    argv[2] = 'C:\Program Files (x86)\Java\jre7\bin\java.exe'
+2015/06/19 20:24:31: (pid=7084)    argv[3] = '-Xms64m'
+2015/06/19 20:24:31: (pid=7084)    argv[4] = '-Xmx128m'
+2015/06/19 20:24:31: (pid=7084)    argv[5] = '-client'
+2015/06/19 20:24:31: (pid=7084)    argv[6] = '-Dorg.opends.server.scriptName=control-panel'
+2015/06/19 20:24:31: (pid=7084)    argv[7] = 'org.opends.guitools.controlpanel.ControlPanelLauncher'
+2015/06/19 20:24:31: (pid=7084)  Constructing full command line from arguments:
+2015/06/19 20:24:31: (pid=7084)   argv[0]: C:\Program Files (x86)\Java\jre7\bin\java.exe
+2015/06/19 20:24:31: (pid=7084)   argv[1]: -Xms64m
+2015/06/19 20:24:31: (pid=7084)   argv[2]: -Xmx128m
+2015/06/19 20:24:31: (pid=7084)   argv[3]: -client
+2015/06/19 20:24:31: (pid=7084)   argv[4]: -Dorg.opends.server.scriptName=control-panel
+2015/06/19 20:24:31: (pid=7084)   argv[5]: org.opends.guitools.controlpanel.ControlPanelLauncher
+2015/06/19 20:24:31: (pid=7084)  The full commandline is '"C:\Program Files (x86)\Java\jre7\bin\java.exe" -Xms64m -Xmx128m -client -Dorg.opends.server.scriptName=control-panel org.opends.guitools.controlpanel.ControlPanelLauncher'.
+2015/06/19 20:24:31: (pid=7084)  createChildProcess: Attempting to create child process '"C:\Program Files (x86)\Java\jre7\bin\java.exe" -Xms64m -Xmx128m -client -Dorg.opends.server.scriptName=control-panel org.opends.guitools.controlpanel.ControlPanelLauncher' background=1.
+2015/06/19 20:24:31: (pid=7084)  createChildProcess: Successfully created child process '"C:\Program Files (x86)\Java\jre7\bin\java.exe" -Xms64m -Xmx128m -client -Dorg.opends.server.scriptName=control-panel org.opends.guitools.controlpanel.ControlPanelLauncher'.
+2015/06/19 20:24:31: (pid=7084)  The PID of the spawned process is 5068.
+2015/06/19 20:24:31: (pid=7084)  Successfully launched the child process '"C:\Program Files (x86)\Java\jre7\bin\java.exe" -Xms64m -Xmx128m -client -Dorg.opends.server.scriptName=control-panel org.opends.guitools.controlpanel.ControlPanelLauncher'.
+2015/06/19 20:24:31: (pid=7084)  main finished. Returning 5068
+2015/06/19 20:24:42: (pid=1020)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:24:42: (pid=1020)  main called.
+2015/06/19 20:24:42: (pid=1020)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:24:42: (pid=1020)    argv[1] = 'state'
+2015/06/19 20:24:42: (pid=1020)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:24:42: (pid=1020)    argv[3] = '--debug'
+2015/06/19 20:24:42: (pid=1020)  Getting service state.
+2015/06/19 20:24:42: (pid=1020)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:24:42: (pid=1020)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:24:42: (pid=1020)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:24:42: (pid=1020)  Successfully opened the Service Control Manager.
+2015/06/19 20:24:42: (pid=1020)  The service name was found to be ''.
+2015/06/19 20:24:42: (pid=1020)  Service '' is disabled.
+2015/06/19 20:24:42: (pid=1020)  main returning 1.
+2015/06/19 20:24:44: (pid=7852)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:24:44: (pid=7852)  main called.
+2015/06/19 20:24:44: (pid=7852)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:24:44: (pid=7852)    argv[1] = 'state'
+2015/06/19 20:24:44: (pid=7852)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:24:44: (pid=7852)    argv[3] = '--debug'
+2015/06/19 20:24:44: (pid=7852)  Getting service state.
+2015/06/19 20:24:44: (pid=7852)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:24:44: (pid=7852)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:24:44: (pid=7852)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:24:44: (pid=7852)  Successfully opened the Service Control Manager.
+2015/06/19 20:24:44: (pid=7852)  The service name was found to be ''.
+2015/06/19 20:24:44: (pid=7852)  Service '' is disabled.
+2015/06/19 20:24:44: (pid=7852)  main returning 1.
+2015/06/19 20:25:04: (pid=7072)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:25:04: (pid=7072)  main called.
+2015/06/19 20:25:04: (pid=7072)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:25:04: (pid=7072)    argv[1] = 'state'
+2015/06/19 20:25:04: (pid=7072)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:25:04: (pid=7072)    argv[3] = '--debug'
+2015/06/19 20:25:04: (pid=7072)  Getting service state.
+2015/06/19 20:25:04: (pid=7072)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:25:04: (pid=7072)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:25:04: (pid=7072)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:25:04: (pid=7072)  Successfully opened the Service Control Manager.
+2015/06/19 20:25:04: (pid=7072)  The service name was found to be ''.
+2015/06/19 20:25:04: (pid=7072)  Service '' is disabled.
+2015/06/19 20:25:04: (pid=7072)  main returning 1.
+2015/06/19 20:25:25: (pid=8644)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:25:25: (pid=8644)  main called.
+2015/06/19 20:25:25: (pid=8644)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:25:25: (pid=8644)    argv[1] = 'state'
+2015/06/19 20:25:25: (pid=8644)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:25:25: (pid=8644)    argv[3] = '--debug'
+2015/06/19 20:25:25: (pid=8644)  Getting service state.
+2015/06/19 20:25:25: (pid=8644)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:25:25: (pid=8644)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:25:25: (pid=8644)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:25:25: (pid=8644)  Successfully opened the Service Control Manager.
+2015/06/19 20:25:25: (pid=8644)  The service name was found to be ''.
+2015/06/19 20:25:25: (pid=8644)  Service '' is disabled.
+2015/06/19 20:25:25: (pid=8644)  main returning 1.
+2015/06/19 20:25:45: (pid=832)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:25:45: (pid=832)  main called.
+2015/06/19 20:25:45: (pid=832)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:25:45: (pid=832)    argv[1] = 'state'
+2015/06/19 20:25:45: (pid=832)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:25:45: (pid=832)    argv[3] = '--debug'
+2015/06/19 20:25:45: (pid=832)  Getting service state.
+2015/06/19 20:25:45: (pid=832)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:25:45: (pid=832)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:25:45: (pid=832)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:25:45: (pid=832)  Successfully opened the Service Control Manager.
+2015/06/19 20:25:45: (pid=832)  The service name was found to be ''.
+2015/06/19 20:25:45: (pid=832)  Service '' is disabled.
+2015/06/19 20:25:45: (pid=832)  main returning 1.
+2015/06/19 20:26:05: (pid=9108)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:26:05: (pid=9108)  main called.
+2015/06/19 20:26:05: (pid=9108)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:26:05: (pid=9108)    argv[1] = 'state'
+2015/06/19 20:26:05: (pid=9108)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:26:05: (pid=9108)    argv[3] = '--debug'
+2015/06/19 20:26:05: (pid=9108)  Getting service state.
+2015/06/19 20:26:05: (pid=9108)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:26:05: (pid=9108)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:26:05: (pid=9108)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:26:05: (pid=9108)  Successfully opened the Service Control Manager.
+2015/06/19 20:26:05: (pid=9108)  The service name was found to be ''.
+2015/06/19 20:26:05: (pid=9108)  Service '' is disabled.
+2015/06/19 20:26:05: (pid=9108)  main returning 1.
+2015/06/19 20:26:25: (pid=6564)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:26:25: (pid=6564)  main called.
+2015/06/19 20:26:25: (pid=6564)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:26:25: (pid=6564)    argv[1] = 'state'
+2015/06/19 20:26:25: (pid=6564)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:26:25: (pid=6564)    argv[3] = '--debug'
+2015/06/19 20:26:25: (pid=6564)  Getting service state.
+2015/06/19 20:26:25: (pid=6564)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:26:25: (pid=6564)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:26:25: (pid=6564)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:26:25: (pid=6564)  Successfully opened the Service Control Manager.
+2015/06/19 20:26:25: (pid=6564)  The service name was found to be ''.
+2015/06/19 20:26:25: (pid=6564)  Service '' is disabled.
+2015/06/19 20:26:25: (pid=6564)  main returning 1.
+2015/06/19 20:26:46: (pid=7684)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:26:46: (pid=7684)  main called.
+2015/06/19 20:26:46: (pid=7684)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:26:46: (pid=7684)    argv[1] = 'state'
+2015/06/19 20:26:46: (pid=7684)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:26:46: (pid=7684)    argv[3] = '--debug'
+2015/06/19 20:26:46: (pid=7684)  Getting service state.
+2015/06/19 20:26:46: (pid=7684)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:26:46: (pid=7684)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:26:46: (pid=7684)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:26:46: (pid=7684)  Successfully opened the Service Control Manager.
+2015/06/19 20:26:46: (pid=7684)  The service name was found to be ''.
+2015/06/19 20:26:46: (pid=7684)  Service '' is disabled.
+2015/06/19 20:26:46: (pid=7684)  main returning 1.
+2015/06/19 20:27:06: (pid=8300)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:27:06: (pid=8300)  main called.
+2015/06/19 20:27:06: (pid=8300)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:27:06: (pid=8300)    argv[1] = 'state'
+2015/06/19 20:27:06: (pid=8300)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:27:06: (pid=8300)    argv[3] = '--debug'
+2015/06/19 20:27:06: (pid=8300)  Getting service state.
+2015/06/19 20:27:06: (pid=8300)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:27:06: (pid=8300)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:27:06: (pid=8300)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:27:06: (pid=8300)  Successfully opened the Service Control Manager.
+2015/06/19 20:27:06: (pid=8300)  The service name was found to be ''.
+2015/06/19 20:27:06: (pid=8300)  Service '' is disabled.
+2015/06/19 20:27:06: (pid=8300)  main returning 1.
+2015/06/19 20:27:26: (pid=5620)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:27:26: (pid=5620)  main called.
+2015/06/19 20:27:26: (pid=5620)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:27:26: (pid=5620)    argv[1] = 'state'
+2015/06/19 20:27:26: (pid=5620)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:27:26: (pid=5620)    argv[3] = '--debug'
+2015/06/19 20:27:26: (pid=5620)  Getting service state.
+2015/06/19 20:27:26: (pid=5620)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:27:26: (pid=5620)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:27:26: (pid=5620)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:27:26: (pid=5620)  Successfully opened the Service Control Manager.
+2015/06/19 20:27:26: (pid=5620)  The service name was found to be ''.
+2015/06/19 20:27:26: (pid=5620)  Service '' is disabled.
+2015/06/19 20:27:26: (pid=5620)  main returning 1.
+2015/06/19 20:27:46: (pid=8056)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:27:46: (pid=8056)  main called.
+2015/06/19 20:27:46: (pid=8056)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:27:46: (pid=8056)    argv[1] = 'state'
+2015/06/19 20:27:46: (pid=8056)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:27:46: (pid=8056)    argv[3] = '--debug'
+2015/06/19 20:27:46: (pid=8056)  Getting service state.
+2015/06/19 20:27:46: (pid=8056)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:27:46: (pid=8056)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:27:46: (pid=8056)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:27:46: (pid=8056)  Successfully opened the Service Control Manager.
+2015/06/19 20:27:46: (pid=8056)  The service name was found to be ''.
+2015/06/19 20:27:46: (pid=8056)  Service '' is disabled.
+2015/06/19 20:27:46: (pid=8056)  main returning 1.
+2015/06/19 20:28:07: (pid=6268)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:28:07: (pid=6268)  main called.
+2015/06/19 20:28:07: (pid=6268)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:28:07: (pid=6268)    argv[1] = 'state'
+2015/06/19 20:28:07: (pid=6268)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:28:07: (pid=6268)    argv[3] = '--debug'
+2015/06/19 20:28:07: (pid=6268)  Getting service state.
+2015/06/19 20:28:07: (pid=6268)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:28:07: (pid=6268)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:28:07: (pid=6268)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:28:07: (pid=6268)  Successfully opened the Service Control Manager.
+2015/06/19 20:28:07: (pid=6268)  The service name was found to be ''.
+2015/06/19 20:28:07: (pid=6268)  Service '' is disabled.
+2015/06/19 20:28:07: (pid=6268)  main returning 1.
+2015/06/19 20:28:27: (pid=5476)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:28:27: (pid=5476)  main called.
+2015/06/19 20:28:27: (pid=5476)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:28:27: (pid=5476)    argv[1] = 'state'
+2015/06/19 20:28:27: (pid=5476)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:28:27: (pid=5476)    argv[3] = '--debug'
+2015/06/19 20:28:27: (pid=5476)  Getting service state.
+2015/06/19 20:28:27: (pid=5476)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:28:27: (pid=5476)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:28:27: (pid=5476)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:28:27: (pid=5476)  Successfully opened the Service Control Manager.
+2015/06/19 20:28:27: (pid=5476)  The service name was found to be ''.
+2015/06/19 20:28:27: (pid=5476)  Service '' is disabled.
+2015/06/19 20:28:27: (pid=5476)  main returning 1.
+2015/06/19 20:28:47: (pid=7248)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:28:47: (pid=7248)  main called.
+2015/06/19 20:28:47: (pid=7248)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:28:47: (pid=7248)    argv[1] = 'state'
+2015/06/19 20:28:47: (pid=7248)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:28:47: (pid=7248)    argv[3] = '--debug'
+2015/06/19 20:28:47: (pid=7248)  Getting service state.
+2015/06/19 20:28:47: (pid=7248)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:28:47: (pid=7248)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:28:47: (pid=7248)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:28:47: (pid=7248)  Successfully opened the Service Control Manager.
+2015/06/19 20:28:47: (pid=7248)  The service name was found to be ''.
+2015/06/19 20:28:47: (pid=7248)  Service '' is disabled.
+2015/06/19 20:28:47: (pid=7248)  main returning 1.
+2015/06/19 20:29:07: (pid=8044)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:29:07: (pid=8044)  main called.
+2015/06/19 20:29:07: (pid=8044)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:29:07: (pid=8044)    argv[1] = 'state'
+2015/06/19 20:29:07: (pid=8044)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:29:07: (pid=8044)    argv[3] = '--debug'
+2015/06/19 20:29:07: (pid=8044)  Getting service state.
+2015/06/19 20:29:07: (pid=8044)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:29:07: (pid=8044)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:29:07: (pid=8044)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:29:07: (pid=8044)  Successfully opened the Service Control Manager.
+2015/06/19 20:29:07: (pid=8044)  The service name was found to be ''.
+2015/06/19 20:29:07: (pid=8044)  Service '' is disabled.
+2015/06/19 20:29:07: (pid=8044)  main returning 1.
+2015/06/19 20:29:27: (pid=9184)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:29:27: (pid=9184)  main called.
+2015/06/19 20:29:27: (pid=9184)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:29:27: (pid=9184)    argv[1] = 'state'
+2015/06/19 20:29:27: (pid=9184)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:29:27: (pid=9184)    argv[3] = '--debug'
+2015/06/19 20:29:27: (pid=9184)  Getting service state.
+2015/06/19 20:29:27: (pid=9184)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:29:27: (pid=9184)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:29:27: (pid=9184)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:29:27: (pid=9184)  Successfully opened the Service Control Manager.
+2015/06/19 20:29:27: (pid=9184)  The service name was found to be ''.
+2015/06/19 20:29:27: (pid=9184)  Service '' is disabled.
+2015/06/19 20:29:27: (pid=9184)  main returning 1.
+2015/06/19 20:29:48: (pid=1268)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:29:48: (pid=1268)  main called.
+2015/06/19 20:29:48: (pid=1268)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:29:48: (pid=1268)    argv[1] = 'state'
+2015/06/19 20:29:48: (pid=1268)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:29:48: (pid=1268)    argv[3] = '--debug'
+2015/06/19 20:29:48: (pid=1268)  Getting service state.
+2015/06/19 20:29:48: (pid=1268)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:29:48: (pid=1268)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:29:48: (pid=1268)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:29:48: (pid=1268)  Successfully opened the Service Control Manager.
+2015/06/19 20:29:48: (pid=1268)  The service name was found to be ''.
+2015/06/19 20:29:48: (pid=1268)  Service '' is disabled.
+2015/06/19 20:29:48: (pid=1268)  main returning 1.
+2015/06/19 20:30:08: (pid=7200)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:30:08: (pid=7200)  main called.
+2015/06/19 20:30:08: (pid=7200)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:30:08: (pid=7200)    argv[1] = 'state'
+2015/06/19 20:30:08: (pid=7200)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:30:08: (pid=7200)    argv[3] = '--debug'
+2015/06/19 20:30:08: (pid=7200)  Getting service state.
+2015/06/19 20:30:08: (pid=7200)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:30:08: (pid=7200)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:30:08: (pid=7200)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:30:08: (pid=7200)  Successfully opened the Service Control Manager.
+2015/06/19 20:30:08: (pid=7200)  The service name was found to be ''.
+2015/06/19 20:30:08: (pid=7200)  Service '' is disabled.
+2015/06/19 20:30:08: (pid=7200)  main returning 1.
+2015/06/19 20:30:28: (pid=7616)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:30:28: (pid=7616)  main called.
+2015/06/19 20:30:28: (pid=7616)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:30:28: (pid=7616)    argv[1] = 'state'
+2015/06/19 20:30:28: (pid=7616)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:30:28: (pid=7616)    argv[3] = '--debug'
+2015/06/19 20:30:28: (pid=7616)  Getting service state.
+2015/06/19 20:30:28: (pid=7616)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:30:28: (pid=7616)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:30:28: (pid=7616)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:30:28: (pid=7616)  Successfully opened the Service Control Manager.
+2015/06/19 20:30:28: (pid=7616)  The service name was found to be ''.
+2015/06/19 20:30:28: (pid=7616)  Service '' is disabled.
+2015/06/19 20:30:28: (pid=7616)  main returning 1.
+2015/06/19 20:30:48: (pid=9064)  --------------- FIRST LOG MESSAGE FROM 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe' ---------------
+2015/06/19 20:30:48: (pid=9064)  main called.
+2015/06/19 20:30:48: (pid=9064)    argv[0] = 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'
+2015/06/19 20:30:48: (pid=9064)    argv[1] = 'state'
+2015/06/19 20:30:48: (pid=9064)    argv[2] = 'D:\PlataformaDeDesarrolloWeb\opendj'
+2015/06/19 20:30:48: (pid=9064)    argv[3] = '--debug'
+2015/06/19 20:30:48: (pid=9064)  Getting service state.
+2015/06/19 20:30:48: (pid=9064)  When determining the service bin path, the module file name is 'D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe'.
+2015/06/19 20:30:48: (pid=9064)  Created the service bin path. code=0.  cmdToRun='"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:30:48: (pid=9064)  Attempting to get the service name assuming command to run is '"D:\PlataformaDeDesarrolloWeb\opendj\lib\opendj_service.exe" start "D:\PlataformaDeDesarrolloWeb\opendj"'.
+2015/06/19 20:30:48: (pid=9064)  Successfully opened the Service Control Manager.
+2015/06/19 20:30:48: (pid=9064)  The service name was found to be ''.
+2015/06/19 20:30:48: (pid=9064)  Service '' is disabled.
+2015/06/19 20:30:48: (pid=9064)  main returning 1.

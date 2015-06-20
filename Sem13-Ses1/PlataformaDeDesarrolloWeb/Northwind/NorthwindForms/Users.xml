@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<users>
+  <user id="1">
+    <name>HENRY</name>
+    <lastname>WONG</lastname>
+    <birthdate>09/05/2015 12:00:00 a.m.</birthdate>
+    <userid>hwong</userid>
+    <password>clave</password>
+  </user>
+</users>
